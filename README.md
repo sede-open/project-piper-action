@@ -100,4 +100,4 @@ No known issues as of now.
 ## How to obtain support
 
 Feel free to open new issues for feature requests, bugs or general feedback on
-the [GitHub issues page of this project](https://github.com/sap/project-piper-action/issues).
+the [GitHub issues page of this project](https://github.com/sap/project-piper-action/issues)..
